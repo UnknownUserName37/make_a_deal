@@ -4,7 +4,6 @@ from selenium.webdriver.common.by import By
 
 def test_eto_pizda_test(setup):
     driver = setup
-
     general_window = driver.current_window_handle
 
     all_themes = driver.find_elements(By.XPATH, "//div[@class = 'title']")
@@ -14,9 +13,9 @@ def test_eto_pizda_test(setup):
 
         ActionChains(driver).key_down(Keys.LEFT_CONTROL).click(themes_list[one_theme]).perform()
         driver.switch_to.window(driver.window_handles[1])
-        text_for_assert = driver.find_element(By.XPATH, "//h1/i").text
+        text_for_assert = driver.find_element(By.XPATH, "//h1/i")
 
         driver.close()
         driver.switch_to.window(general_window)
 
-        assert text_for_assert == themes_list[one_theme].text
+        assert text_for_assert.text == themes_list[one_theme].text
