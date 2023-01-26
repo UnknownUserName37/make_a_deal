@@ -1,6 +1,6 @@
 from selenium.webdriver import Keys, ActionChains
 from selenium.webdriver.common.by import By
-
+# Second way
 
 def test_eto_pizda_test(setup):
     driver = setup
