@@ -26,3 +26,4 @@ def test_eto_pizda_test(setup):
         driver.switch_to.window(general_window)
 
         assert text_for_assert == themes_list[one_theme].text
+
