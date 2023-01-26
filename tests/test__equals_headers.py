@@ -10,16 +10,16 @@ def test_eto_pizda_test(setup):
     ALL_THEMES = driver.find_elements(By.XPATH, "//div[@class = 'title']")
     themes_list = [themes_list for themes_list in ALL_THEMES]
 
-    # action = ActionChains(driver)
+    action = ActionChains(driver)
 
     for one_theme in range(len(themes_list)):
         text_for_assert = None
 
-        ActionChains(driver).key_down(Keys.LEFT_CONTROL).click(themes_list[one_theme]).perform()
+        action.key_down(Keys.LEFT_CONTROL).click(themes_list[one_theme]).perform()
 
-        # handles = driver.window_handles[1]
-        # driver.switch_to.window(handles)
-        driver.switch_to.window(driver.window_handles[1])
+        handles = driver.window_handles[1]
+        driver.switch_to.window(handles)
+
         text_for_assert = driver.find_element(By.XPATH, "//h1/i").text
 
         driver.close()
