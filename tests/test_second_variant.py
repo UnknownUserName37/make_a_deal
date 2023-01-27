@@ -17,4 +17,3 @@ def test_eto_pizda_test(setup):
         assert driver.find_element(By.XPATH, "//h1/i").text == text_of_one_header
         driver.close()
         driver.switch_to.window(general_window)
-#  lol
