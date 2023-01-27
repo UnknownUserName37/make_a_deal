@@ -1,0 +1,63 @@
+Index: .idea/make_a_deal.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/make_a_deal.iml b/.idea/make_a_deal.iml
+--- a/.idea/make_a_deal.iml	
++++ b/.idea/make_a_deal.iml	
+@@ -2,7 +2,7 @@
+ <module type="PYTHON_MODULE" version="4">
+   <component name="NewModuleRootManager">
+     <content url="file://$MODULE_DIR$" />
+-    <orderEntry type="inheritedJdk" />
++    <orderEntry type="jdk" jdkName="Python 3.10 (venv)" jdkType="Python SDK" />
+     <orderEntry type="sourceFolder" forTests="false" />
+   </component>
+ </module>
+\ No newline at end of file
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+--- a/.idea/misc.xml	
++++ b/.idea/misc.xml	
+@@ -1,4 +1,4 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9" project-jdk-type="Python SDK" />
++  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (venv)" project-jdk-type="Python SDK" />
+ </project>
+\ No newline at end of file
+Index: conftest.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/conftest.py b/conftest.py
+--- a/conftest.py	
++++ b/conftest.py	
+@@ -2,21 +2,10 @@
+ from selenium import webdriver
+ from selenium.webdriver.chrome.service import Service
+ from webdriver_manager.chrome import ChromeDriverManager
+-from selenium.webdriver.chrome.options import Options as chrome_options
+-
+-
+-# @pytest.fixture
+-# def fixture_for_set_params():
+-#     options = chrome_options()
+-#     options.add_argument('chrome')
+-#     options.add_argument('--start-maximized')
+-#     options.add_argument('--headless')
+-#     return options
+ 
+ 
+ @pytest.fixture
+ def fixture_for_set_driver():
+-    # options = fixture_for_set_params
+     driver_service = Service(ChromeDriverManager().install())
+     driver = webdriver.Chrome(service=driver_service)
+     return driver

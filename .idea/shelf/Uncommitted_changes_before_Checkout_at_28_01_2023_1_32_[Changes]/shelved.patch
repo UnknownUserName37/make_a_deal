@@ -1,0 +1,45 @@
+Index: .idea/workspace.xml
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -1,7 +1,12 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="9f4e147e-8b81-4a79-8219-4d3acf0d88e4" name="Changes" comment="unlol + rebase on the right branch + edits. Without a trash. Now." />
++    <list default="true" id="9f4e147e-8b81-4a79-8219-4d3acf0d88e4" name="Changes" comment="I want to have this files just on a local.">
++      <change beforePath="$PROJECT_DIR$/.idea/make_a_deal.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/make_a_deal.iml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -186,7 +191,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1674857251032</updated>
+     </task>
+-    <option name="localTasksCounter" value="20" />
++    <task id="LOCAL-00020" summary="I want to have this files just on a local.">
++      <created>1674857354479</created>
++      <option name="number" value="00020" />
++      <option name="presentableId" value="LOCAL-00020" />
++      <option name="project" value="LOCAL" />
++      <updated>1674857354479</updated>
++    </task>
++    <option name="localTasksCounter" value="21" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -285,6 +297,7 @@
+     <MESSAGE value="unlol + rebase on the right branch + edits." />
+     <MESSAGE value="unlol + rebase on the right branch + edits. With a trash." />
+     <MESSAGE value="unlol + rebase on the right branch + edits. Without a trash. Now." />
+-    <option name="LAST_COMMIT_MESSAGE" value="unlol + rebase on the right branch + edits. Without a trash. Now." />
++    <MESSAGE value="I want to have this files just on a local." />
++    <option name="LAST_COMMIT_MESSAGE" value="I want to have this files just on a local." />
+   </component>
+ </project>
+\ No newline at end of file
