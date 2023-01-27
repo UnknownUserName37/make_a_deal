@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f4e147e-8b81-4a79-8219-4d3acf0d88e4" name="Changes" comment="I want to have this files just on a local.&#10;&#10;hmmmmm........&#10;&#10;I'm stupit idiot. I can't do this alll day......&#10;&#10;Fucking trash files....&#10;&#10;I do????" />
+    <list default="true" id="9f4e147e-8b81-4a79-8219-4d3acf0d88e4" name="Changes" comment="I want to have this files just on a local.&#10;&#10;hmmmmm........&#10;&#10;I'm stupit idiot. I can't do this alll day......&#10;&#10;Fucking trash files....&#10;&#10;I do????&#10;&#10;Commit just for local store.&#10;&#10;Aaaaaaand go to remote! This file is really need there.&#10;&#10;Try again. Local file. And switch to master branch.&#10;&#10;Rebase complete.&#10;&#10;Rebase on a PR branch complete. Push needed files." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -207,7 +207,42 @@
       <option name="project" value="LOCAL" />
       <updated>1674860589057</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="I want to have this files just on a local.&#10;&#10;hmmmmm........&#10;&#10;I'm stupit idiot. I can't do this alll day......&#10;&#10;Fucking trash files....&#10;&#10;I do????&#10;&#10;Commit just for local store.">
+      <created>1674860715225</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1674860715225</updated>
+    </task>
+    <task id="LOCAL-00024" summary="I want to have this files just on a local.&#10;&#10;hmmmmm........&#10;&#10;I'm stupit idiot. I can't do this alll day......&#10;&#10;Fucking trash files....&#10;&#10;I do????&#10;&#10;Commit just for local store.&#10;&#10;Aaaaaaand go to remote! This file is really need there.">
+      <created>1674860790148</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1674860790148</updated>
+    </task>
+    <task id="LOCAL-00025" summary="I want to have this files just on a local.&#10;&#10;hmmmmm........&#10;&#10;I'm stupit idiot. I can't do this alll day......&#10;&#10;Fucking trash files....&#10;&#10;I do????&#10;&#10;Commit just for local store.&#10;&#10;Aaaaaaand go to remote! This file is really need there.&#10;&#10;Try again. Local file. And switch to master branch.">
+      <created>1674861008403</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1674861008403</updated>
+    </task>
+    <task id="LOCAL-00026" summary="I want to have this files just on a local.&#10;&#10;hmmmmm........&#10;&#10;I'm stupit idiot. I can't do this alll day......&#10;&#10;Fucking trash files....&#10;&#10;I do????&#10;&#10;Commit just for local store.&#10;&#10;Aaaaaaand go to remote! This file is really need there.&#10;&#10;Try again. Local file. And switch to master branch.&#10;&#10;Rebase complete.">
+      <created>1674861068674</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1674861068674</updated>
+    </task>
+    <task id="LOCAL-00027" summary="I want to have this files just on a local.&#10;&#10;hmmmmm........&#10;&#10;I'm stupit idiot. I can't do this alll day......&#10;&#10;Fucking trash files....&#10;&#10;I do????&#10;&#10;Commit just for local store.&#10;&#10;Aaaaaaand go to remote! This file is really need there.&#10;&#10;Try again. Local file. And switch to master branch.&#10;&#10;Rebase complete.&#10;&#10;Rebase on a PR branch complete. Push needed files.">
+      <created>1674861177916</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1674861177916</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -288,7 +323,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Revert &quot;lol&quot;&#10;&#10;This reverts commit 3b245ce8&#10;&#10;stop_it" />
     <MESSAGE value="Try again." />
     <MESSAGE value="Add new file with shortly test." />
     <MESSAGE value="Add new file with shortly test.&#10;&#10;Change new file. Do shortly." />
@@ -309,6 +343,11 @@
     <MESSAGE value="I want to have this files just on a local.&#10;&#10;hmmmmm........" />
     <MESSAGE value="I want to have this files just on a local.&#10;&#10;hmmmmm........&#10;&#10;I'm stupit idiot. I can't do this alll day......&#10;&#10;Fucking trash files...." />
     <MESSAGE value="I want to have this files just on a local.&#10;&#10;hmmmmm........&#10;&#10;I'm stupit idiot. I can't do this alll day......&#10;&#10;Fucking trash files....&#10;&#10;I do????" />
-    <option name="LAST_COMMIT_MESSAGE" value="I want to have this files just on a local.&#10;&#10;hmmmmm........&#10;&#10;I'm stupit idiot. I can't do this alll day......&#10;&#10;Fucking trash files....&#10;&#10;I do????" />
+    <MESSAGE value="I want to have this files just on a local.&#10;&#10;hmmmmm........&#10;&#10;I'm stupit idiot. I can't do this alll day......&#10;&#10;Fucking trash files....&#10;&#10;I do????&#10;&#10;Commit just for local store." />
+    <MESSAGE value="I want to have this files just on a local.&#10;&#10;hmmmmm........&#10;&#10;I'm stupit idiot. I can't do this alll day......&#10;&#10;Fucking trash files....&#10;&#10;I do????&#10;&#10;Commit just for local store.&#10;&#10;Aaaaaaand go to remote! This file is really need there." />
+    <MESSAGE value="I want to have this files just on a local.&#10;&#10;hmmmmm........&#10;&#10;I'm stupit idiot. I can't do this alll day......&#10;&#10;Fucking trash files....&#10;&#10;I do????&#10;&#10;Commit just for local store.&#10;&#10;Aaaaaaand go to remote! This file is really need there.&#10;&#10;Try again. Local file. And switch to master branch." />
+    <MESSAGE value="I want to have this files just on a local.&#10;&#10;hmmmmm........&#10;&#10;I'm stupit idiot. I can't do this alll day......&#10;&#10;Fucking trash files....&#10;&#10;I do????&#10;&#10;Commit just for local store.&#10;&#10;Aaaaaaand go to remote! This file is really need there.&#10;&#10;Try again. Local file. And switch to master branch.&#10;&#10;Rebase complete." />
+    <MESSAGE value="I want to have this files just on a local.&#10;&#10;hmmmmm........&#10;&#10;I'm stupit idiot. I can't do this alll day......&#10;&#10;Fucking trash files....&#10;&#10;I do????&#10;&#10;Commit just for local store.&#10;&#10;Aaaaaaand go to remote! This file is really need there.&#10;&#10;Try again. Local file. And switch to master branch.&#10;&#10;Rebase complete.&#10;&#10;Rebase on a PR branch complete. Push needed files." />
+    <option name="LAST_COMMIT_MESSAGE" value="I want to have this files just on a local.&#10;&#10;hmmmmm........&#10;&#10;I'm stupit idiot. I can't do this alll day......&#10;&#10;Fucking trash files....&#10;&#10;I do????&#10;&#10;Commit just for local store.&#10;&#10;Aaaaaaand go to remote! This file is really need there.&#10;&#10;Try again. Local file. And switch to master branch.&#10;&#10;Rebase complete.&#10;&#10;Rebase on a PR branch complete. Push needed files." />
   </component>
 </project>
