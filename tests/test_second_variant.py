@@ -2,7 +2,7 @@ from selenium.webdriver import Keys, ActionChains
 from selenium.webdriver.common.by import By
 
 
-# Second way
+# Second way. Yes?
 
 
 def test_eto_pizda_test(setup):
