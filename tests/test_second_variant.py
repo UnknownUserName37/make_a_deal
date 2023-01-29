@@ -2,7 +2,7 @@ from selenium.webdriver import Keys, ActionChains
 from selenium.webdriver.common.by import By
 
 
-# Second way. LoudPass. Just there. One.
+# Second way. LoudPass. One.
 
 
 def test_eto_pizda_test(setup):
