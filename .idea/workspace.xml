@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f4e147e-8b81-4a79-8219-4d3acf0d88e4" name="Changes" comment="I want to have this files just on a local.&#10;&#10;hmmmmm........&#10;&#10;I'm stupit idiot. I can't do this alll day......&#10;&#10;Fucking trash files....&#10;&#10;I do????&#10;&#10;Commit just for local store.&#10;&#10;Aaaaaaand go to remote! This file is really need there.&#10;&#10;Try again. Local file. And switch to master branch.&#10;&#10;Rebase complete.&#10;&#10;Rebase on a PR branch complete. Push needed files.&#10;&#10;Commit for equals master and PR(maybe_work....).&#10;&#10;Use this func for understanding again.">
-      <change beforePath="$PROJECT_DIR$/tests/test_second_variant.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_second_variant.py" afterDir="false" />
-    </list>
+    <list default="true" id="9f4e147e-8b81-4a79-8219-4d3acf0d88e4" name="Changes" comment="This is fucking ... not fucking. ok. relax. just local files.&#10;&#10;And?&#10;&#10;For remote.." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +17,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="maybe_work_maybe_not" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
