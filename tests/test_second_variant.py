@@ -2,7 +2,7 @@ from selenium.webdriver import Keys, ActionChains
 from selenium.webdriver.common.by import By
 
 
-# Second way. LoudPass. Do one napas. And is not санина, ебаная. NOT
+# Second way. LoudPass. Just there. 
 
 
 def test_eto_pizda_test(setup):
