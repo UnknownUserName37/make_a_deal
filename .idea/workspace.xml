@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f4e147e-8b81-4a79-8219-4d3acf0d88e4" name="Changes" comment="This is fucking ... not fucking. ok. relax. just local files.&#10;&#10;And?&#10;&#10;For remote.." />
+    <list default="true" id="9f4e147e-8b81-4a79-8219-4d3acf0d88e4" name="Changes" comment="I' m not understand.." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -249,7 +249,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674861411956</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="I' m not understand..">
+      <created>1674998319633</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1674998319633</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -330,7 +337,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add new file with shortly test." />
     <MESSAGE value="Add new file with shortly test.&#10;&#10;Change new file. Do shortly." />
     <MESSAGE value="Add new file with shortly test.&#10;&#10;Change new file. Do shortly.&#10;&#10;Return condition of native file. Make him long. Again. )" />
     <MESSAGE value="Add new file with shortly test.&#10;&#10;Change new file. Do shortly.&#10;&#10;Return condition of native file. Make him long. Again. )&#10;&#10;Add comment about ways in a top of files with tests." />
@@ -355,6 +361,7 @@
     <MESSAGE value="I want to have this files just on a local.&#10;&#10;hmmmmm........&#10;&#10;I'm stupit idiot. I can't do this alll day......&#10;&#10;Fucking trash files....&#10;&#10;I do????&#10;&#10;Commit just for local store.&#10;&#10;Aaaaaaand go to remote! This file is really need there.&#10;&#10;Try again. Local file. And switch to master branch.&#10;&#10;Rebase complete." />
     <MESSAGE value="I want to have this files just on a local.&#10;&#10;hmmmmm........&#10;&#10;I'm stupit idiot. I can't do this alll day......&#10;&#10;Fucking trash files....&#10;&#10;I do????&#10;&#10;Commit just for local store.&#10;&#10;Aaaaaaand go to remote! This file is really need there.&#10;&#10;Try again. Local file. And switch to master branch.&#10;&#10;Rebase complete.&#10;&#10;Rebase on a PR branch complete. Push needed files." />
     <MESSAGE value="I want to have this files just on a local.&#10;&#10;hmmmmm........&#10;&#10;I'm stupit idiot. I can't do this alll day......&#10;&#10;Fucking trash files....&#10;&#10;I do????&#10;&#10;Commit just for local store.&#10;&#10;Aaaaaaand go to remote! This file is really need there.&#10;&#10;Try again. Local file. And switch to master branch.&#10;&#10;Rebase complete.&#10;&#10;Rebase on a PR branch complete. Push needed files.&#10;&#10;Commit for equals master and PR(maybe_work....).&#10;&#10;Use this func for understanding again." />
-    <option name="LAST_COMMIT_MESSAGE" value="I want to have this files just on a local.&#10;&#10;hmmmmm........&#10;&#10;I'm stupit idiot. I can't do this alll day......&#10;&#10;Fucking trash files....&#10;&#10;I do????&#10;&#10;Commit just for local store.&#10;&#10;Aaaaaaand go to remote! This file is really need there.&#10;&#10;Try again. Local file. And switch to master branch.&#10;&#10;Rebase complete.&#10;&#10;Rebase on a PR branch complete. Push needed files.&#10;&#10;Commit for equals master and PR(maybe_work....).&#10;&#10;Use this func for understanding again." />
+    <MESSAGE value="I' m not understand.." />
+    <option name="LAST_COMMIT_MESSAGE" value="I' m not understand.." />
   </component>
 </project>
