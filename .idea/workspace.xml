@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f4e147e-8b81-4a79-8219-4d3acf0d88e4" name="Changes" comment="I want to have this files just on a local.&#10;&#10;hmmmmm........&#10;&#10;I'm stupit idiot. I can't do this alll day......&#10;&#10;Fucking trash files....&#10;&#10;I do????&#10;&#10;Commit just for local store.&#10;&#10;Aaaaaaand go to remote! This file is really need there.&#10;&#10;Try again. Local file. And switch to master branch.&#10;&#10;Rebase complete.&#10;&#10;Rebase on a PR branch complete. Push needed files.&#10;&#10;Commit for equals master and PR(maybe_work....).&#10;&#10;Use this func for understanding again.&#10;&#10;Yes. I think that I' m understanded that. &#10;&#10;Now this commit for local.&#10;&#10;And this for remote.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9f4e147e-8b81-4a79-8219-4d3acf0d88e4" name="Changes" comment="I want to have this files just on a local.&#10;&#10;hmmmmm........&#10;&#10;I'm stupit idiot. I can't do this alll day......&#10;&#10;Fucking trash files....&#10;&#10;I do????&#10;&#10;Commit just for local store.&#10;&#10;Aaaaaaand go to remote! This file is really need there.&#10;&#10;Try again. Local file. And switch to master branch.&#10;&#10;Rebase complete.&#10;&#10;Rebase on a PR branch complete. Push needed files.&#10;&#10;Commit for equals master and PR(maybe_work....).&#10;&#10;Use this func for understanding again.&#10;&#10;Yes. I think that I' m understanded that. &#10;&#10;Now this commit for local.&#10;&#10;And this for remote.&#10;&#10;Forgot key_up after deleting and recovery project.&#10;&#10;Remote commit.&#10;&#10;So. I have a problem, again. Ok. &#10;&#10;Local + history save.&#10;&#10;Ye?" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +17,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="maybe_work_maybe_not" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -265,7 +263,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674861652719</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="I want to have this files just on a local.&#10;&#10;hmmmmm........&#10;&#10;I'm stupit idiot. I can't do this alll day......&#10;&#10;Fucking trash files....&#10;&#10;I do????&#10;&#10;Commit just for local store.&#10;&#10;Aaaaaaand go to remote! This file is really need there.&#10;&#10;Try again. Local file. And switch to master branch.&#10;&#10;Rebase complete.&#10;&#10;Rebase on a PR branch complete. Push needed files.&#10;&#10;Commit for equals master and PR(maybe_work....).&#10;&#10;Use this func for understanding again.&#10;&#10;Yes. I think that I' m understanded that. &#10;&#10;Now this commit for local.&#10;&#10;And this for remote.&#10;&#10;Forgot key_up after deleting and recovery project.&#10;&#10;Remote commit.&#10;&#10;So. I have a problem, again. Ok. &#10;&#10;Local + history save.&#10;&#10;Ye?">
+      <created>1674985346175</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1674985346175</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -346,7 +351,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add new file with shortly test.&#10;&#10;Change new file. Do shortly.&#10;&#10;Return condition of native file. Make him long. Again. )" />
     <MESSAGE value="Add new file with shortly test.&#10;&#10;Change new file. Do shortly.&#10;&#10;Return condition of native file. Make him long. Again. )&#10;&#10;Add comment about ways in a top of files with tests." />
     <MESSAGE value="Add new file with shortly test.&#10;&#10;Change new file. Do shortly.&#10;&#10;Return condition of native file. Make him long. Again. )&#10;&#10;Add comment about ways in a top of files with tests.&#10;&#10;I' m understand my mistake." />
     <MESSAGE value="Add new file with shortly test.&#10;&#10;Change new file. Do shortly.&#10;&#10;Return condition of native file. Make him long. Again. )&#10;&#10;Add comment about ways in a top of files with tests.&#10;&#10;I' m understand my mistake.&#10;&#10;Fix text_for_assert.text. It's incorrect." />
@@ -371,6 +375,7 @@
     <MESSAGE value="I want to have this files just on a local.&#10;&#10;hmmmmm........&#10;&#10;I'm stupit idiot. I can't do this alll day......&#10;&#10;Fucking trash files....&#10;&#10;I do????&#10;&#10;Commit just for local store.&#10;&#10;Aaaaaaand go to remote! This file is really need there.&#10;&#10;Try again. Local file. And switch to master branch.&#10;&#10;Rebase complete.&#10;&#10;Rebase on a PR branch complete. Push needed files.&#10;&#10;Commit for equals master and PR(maybe_work....).&#10;&#10;Use this func for understanding again." />
     <MESSAGE value="I want to have this files just on a local.&#10;&#10;hmmmmm........&#10;&#10;I'm stupit idiot. I can't do this alll day......&#10;&#10;Fucking trash files....&#10;&#10;I do????&#10;&#10;Commit just for local store.&#10;&#10;Aaaaaaand go to remote! This file is really need there.&#10;&#10;Try again. Local file. And switch to master branch.&#10;&#10;Rebase complete.&#10;&#10;Rebase on a PR branch complete. Push needed files.&#10;&#10;Commit for equals master and PR(maybe_work....).&#10;&#10;Use this func for understanding again.&#10;&#10;Yes. I think that I' m understanded that. &#10;&#10;Now this commit for local." />
     <MESSAGE value="I want to have this files just on a local.&#10;&#10;hmmmmm........&#10;&#10;I'm stupit idiot. I can't do this alll day......&#10;&#10;Fucking trash files....&#10;&#10;I do????&#10;&#10;Commit just for local store.&#10;&#10;Aaaaaaand go to remote! This file is really need there.&#10;&#10;Try again. Local file. And switch to master branch.&#10;&#10;Rebase complete.&#10;&#10;Rebase on a PR branch complete. Push needed files.&#10;&#10;Commit for equals master and PR(maybe_work....).&#10;&#10;Use this func for understanding again.&#10;&#10;Yes. I think that I' m understanded that. &#10;&#10;Now this commit for local.&#10;&#10;And this for remote." />
-    <option name="LAST_COMMIT_MESSAGE" value="I want to have this files just on a local.&#10;&#10;hmmmmm........&#10;&#10;I'm stupit idiot. I can't do this alll day......&#10;&#10;Fucking trash files....&#10;&#10;I do????&#10;&#10;Commit just for local store.&#10;&#10;Aaaaaaand go to remote! This file is really need there.&#10;&#10;Try again. Local file. And switch to master branch.&#10;&#10;Rebase complete.&#10;&#10;Rebase on a PR branch complete. Push needed files.&#10;&#10;Commit for equals master and PR(maybe_work....).&#10;&#10;Use this func for understanding again.&#10;&#10;Yes. I think that I' m understanded that. &#10;&#10;Now this commit for local.&#10;&#10;And this for remote." />
+    <MESSAGE value="I want to have this files just on a local.&#10;&#10;hmmmmm........&#10;&#10;I'm stupit idiot. I can't do this alll day......&#10;&#10;Fucking trash files....&#10;&#10;I do????&#10;&#10;Commit just for local store.&#10;&#10;Aaaaaaand go to remote! This file is really need there.&#10;&#10;Try again. Local file. And switch to master branch.&#10;&#10;Rebase complete.&#10;&#10;Rebase on a PR branch complete. Push needed files.&#10;&#10;Commit for equals master and PR(maybe_work....).&#10;&#10;Use this func for understanding again.&#10;&#10;Yes. I think that I' m understanded that. &#10;&#10;Now this commit for local.&#10;&#10;And this for remote.&#10;&#10;Forgot key_up after deleting and recovery project.&#10;&#10;Remote commit.&#10;&#10;So. I have a problem, again. Ok. &#10;&#10;Local + history save.&#10;&#10;Ye?" />
+    <option name="LAST_COMMIT_MESSAGE" value="I want to have this files just on a local.&#10;&#10;hmmmmm........&#10;&#10;I'm stupit idiot. I can't do this alll day......&#10;&#10;Fucking trash files....&#10;&#10;I do????&#10;&#10;Commit just for local store.&#10;&#10;Aaaaaaand go to remote! This file is really need there.&#10;&#10;Try again. Local file. And switch to master branch.&#10;&#10;Rebase complete.&#10;&#10;Rebase on a PR branch complete. Push needed files.&#10;&#10;Commit for equals master and PR(maybe_work....).&#10;&#10;Use this func for understanding again.&#10;&#10;Yes. I think that I' m understanded that. &#10;&#10;Now this commit for local.&#10;&#10;And this for remote.&#10;&#10;Forgot key_up after deleting and recovery project.&#10;&#10;Remote commit.&#10;&#10;So. I have a problem, again. Ok. &#10;&#10;Local + history save.&#10;&#10;Ye?" />
   </component>
 </project>
