@@ -12,7 +12,8 @@ def test_eto_pizda_test(setup):
 
     for header_of_one_article in headers_off_all_articles:
         text_of_one_header = header_of_one_article.text
-        ActionChains(driver).key_down(Keys.LEFT_CONTROL).click(header_of_one_article).perform()
+        ActionChains(driver).key_down(Keys.LEFT_CONTROL).click(header_of_one_article) \
+            .key_up(Keys.LEFT_CONTROL).perform()
         driver.switch_to.window(driver.window_handles[1])
         assert driver.find_element(By.XPATH, "//h1/i").text == text_of_one_header
         driver.close()
