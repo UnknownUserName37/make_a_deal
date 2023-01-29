@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f4e147e-8b81-4a79-8219-4d3acf0d88e4" name="Changes" comment="Ссанина ебаная.&#10;&#10;Ok. I' m finished with it.&#10;&#10;Commit.">
-      <change beforePath="$PROJECT_DIR$/tests/test_second_variant.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_second_variant.py" afterDir="false" />
+    <list default="true" id="9f4e147e-8b81-4a79-8219-4d3acf0d88e4" name="Changes" comment="&#10;Ok. I' m finished with it.&#10;&#10;Commit just one file. ONE.&#10;&#10;And? And one.&#10;&#10;Ok. Rebase. And forward..?&#10;&#10;Сейчас здесь будет миллион файлов.. Но как отправить оидн7..&#10;&#10;One commit = one push pack. &#10;&#10;One commit = one change. &#10;&#10;How I can push just one file... hmmmmm...">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_29_01_2023_16_56__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_29_01_2023_16_56__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_29_01_2023_16_56__Changes_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_29_01_2023_16_56__Changes_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_29_01_2023_17_17__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_29_01_2023_17_17__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +34,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="maybe_work_maybe_not" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -278,7 +287,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675001762956</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="&#10;Ok. I' m finished with it.&#10;&#10;Commit just one file. ONE.&#10;&#10;And? And one.&#10;&#10;Ok. Rebase. And forward..?&#10;&#10;Сейчас здесь будет миллион файлов.. Но как отправить оидн7..">
+      <created>1675002318466</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1675002318466</updated>
+    </task>
+    <task id="LOCAL-00033" summary="&#10;Ok. I' m finished with it.&#10;&#10;Commit just one file. ONE.&#10;&#10;And? And one.&#10;&#10;Ok. Rebase. And forward..?&#10;&#10;Сейчас здесь будет миллион файлов.. Но как отправить оидн7..&#10;&#10;One commit = one push pack. &#10;&#10;One commit = one change. &#10;&#10;How I can push just one file... hmmmmm...">
+      <created>1675002569202</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1675002569202</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -349,18 +372,44 @@
             </State>
           </value>
         </entry>
-      </map>
-    </option>
-    <option name="OPEN_GENERIC_TABS">
-      <map>
-        <entry key="3c875078-3b24-4910-b358-c8f53c9211ce" value="TOOL_WINDOW" />
-        <entry key="a30128d5-1136-4bf6-bc20-4aaf37f0ec21" value="TOOL_WINDOW" />
+        <entry key="afec2816-79e6-41f5-a8af-d936867817c1">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="maybe_work_maybe_not" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="d6c9ae4b-35d7-4315-9b38-213968c84455">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="maybe_work_maybe_not" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add new file with shortly test.&#10;&#10;Change new file. Do shortly.&#10;&#10;Return condition of native file. Make him long. Again. )&#10;&#10;Add comment about ways in a top of files with tests." />
-    <MESSAGE value="Add new file with shortly test.&#10;&#10;Change new file. Do shortly.&#10;&#10;Return condition of native file. Make him long. Again. )&#10;&#10;Add comment about ways in a top of files with tests.&#10;&#10;I' m understand my mistake." />
     <MESSAGE value="Add new file with shortly test.&#10;&#10;Change new file. Do shortly.&#10;&#10;Return condition of native file. Make him long. Again. )&#10;&#10;Add comment about ways in a top of files with tests.&#10;&#10;I' m understand my mistake.&#10;&#10;Fix text_for_assert.text. It's incorrect." />
     <MESSAGE value="Add new file with shortly test.&#10;&#10;Change new file. Do shortly.&#10;&#10;Return condition of native file. Make him long. Again. )&#10;&#10;Add comment about ways in a top of files with tests.&#10;&#10;I' m understand my mistake.&#10;&#10;Fix text_for_assert.text. It's incorrect. &#10;&#10;Uncomment. Micro_pep." />
     <MESSAGE value="Add new file with shortly test.&#10;&#10;Change new file. Do shortly.&#10;&#10;Return condition of native file. Make him long. Again. )&#10;&#10;Add comment about ways in a top of files with tests.&#10;&#10;I' m understand my mistake.&#10;&#10;Fix text_for_assert.text. It's incorrect. &#10;&#10;Uncomment. Micro_pep.&#10;&#10;I RESTORE IT!" />
@@ -384,6 +433,8 @@
     <MESSAGE value="I' m not understand.." />
     <MESSAGE value="Ссанина ебаная.&#10;&#10;Ok. I' m finished with it.&#10;&#10;Commit." />
     <MESSAGE value="&#10;Ok. I' m finished with it.&#10;&#10;Commit just one file. ONE." />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;Ok. I' m finished with it.&#10;&#10;Commit just one file. ONE." />
+    <MESSAGE value="&#10;Ok. I' m finished with it.&#10;&#10;Commit just one file. ONE.&#10;&#10;And? And one.&#10;&#10;Ok. Rebase. And forward..?&#10;&#10;Сейчас здесь будет миллион файлов.. Но как отправить оидн7.." />
+    <MESSAGE value="&#10;Ok. I' m finished with it.&#10;&#10;Commit just one file. ONE.&#10;&#10;And? And one.&#10;&#10;Ok. Rebase. And forward..?&#10;&#10;Сейчас здесь будет миллион файлов.. Но как отправить оидн7..&#10;&#10;One commit = one push pack. &#10;&#10;One commit = one change. &#10;&#10;How I can push just one file... hmmmmm..." />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;Ok. I' m finished with it.&#10;&#10;Commit just one file. ONE.&#10;&#10;And? And one.&#10;&#10;Ok. Rebase. And forward..?&#10;&#10;Сейчас здесь будет миллион файлов.. Но как отправить оидн7..&#10;&#10;One commit = one push pack. &#10;&#10;One commit = one change. &#10;&#10;How I can push just one file... hmmmmm..." />
   </component>
 </project>
